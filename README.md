@@ -26,3 +26,10 @@
 * Freeoffice
 * VS code
 
+#### Software installed via SNAP:
+* opera 
+* telegram 
+* Slack 
+* spotify 
+* draw.io 
+
