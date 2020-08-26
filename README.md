@@ -1,7 +1,7 @@
 # My personal Ubuntu Desktop Setup Script
-## This is a Automated bash setup script for my personal Ubuntu desktop machine.
+### This is a Automated bash setup script for my personal Ubuntu desktop machine.
 
-### Software installed via APT:
+#### Software installed via APT:
 * vim 
 * net tools
 * wget
